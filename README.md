@@ -1,4 +1,4 @@
-## PROJECT TITLE: 
+## PROJECT TITLE: (download moved to discord) 
 SmU5h Scoreboard
 
 ## PURPOSE OF PROJECT: 
